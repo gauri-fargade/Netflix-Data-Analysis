@@ -66,7 +66,7 @@ This project involves exploring and analyzing the Netflix catalog dataset using 
 ## 🙋‍♀️ About Me
 
 👩‍💻 **Gauri Mangesh Fargade**  
-*3rd Year Computer Engineering | MERN Developer | Data Science Enthusiast*  
+*Final Year Computer Engineering Student,SPPU*  
 📫 [fargadegauri@gmail.com](mailto:fargadegauri@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/gauri-fargade)
 
